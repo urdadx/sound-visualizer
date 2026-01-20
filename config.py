@@ -1,0 +1,27 @@
+# Audio stream parameters
+CHUNK_SIZE = 1024
+SAMPLE_RATE = 44100
+CHANNELS = 1
+FORMAT = "int16"
+
+# Digital signal processing parameters
+F_MIN_FREQUENCY = 20
+F_MAX_FREQUENCY = 20000
+DB_FLOOR = -60
+SMOOTHING_FACTOR = 0.9
+
+
+# Visualization parameters
+FPS = 60
+NUM_BARS = 90
+SCREEN_WIDTH = 1200
+SCREEN_HEIGHT = 700
+BAR_SPACING = 2
+GRAVITY = 0.8
+
+# Color parameters
+BACKGROUND_COLOR = (10, 10, 15)
+BAR_COLOR = (0, 255, 150)
+PEAK_COLOR = (255, 255, 255)
+
+

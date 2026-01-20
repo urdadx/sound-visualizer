@@ -1,0 +1,12 @@
+[project]
+name = "soundxy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ruff>=0.14.13",
+    "numpy",
+    "pygame",
+    "pyaudio>=0.2.14",
+]
