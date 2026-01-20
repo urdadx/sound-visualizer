@@ -12,12 +12,6 @@ A simple real-time audio visualizer built with Python that captures live microph
 - **Real-time Audio Processing**: Captures live microphone input using PyAudio
 - **Frequency Analysis**: FFT-based frequency spectrum analysis with logarithmic frequency bins
 - **Smooth Animations**: Gravity-based bar animations with peak detection
-- **Configurable Visualization**: Customizable colors, bar count, and visual parameters
-- **Performance Monitoring**: Real-time FPS display and performance metrics
-
-## Architecture
-
-The application is built with a modular architecture consisting of four main components:
 
 ### Core Components
 
@@ -62,14 +56,7 @@ uv sync
 ### Running the Application
 
 ```bash
-uv run python main.py
-```
-
-### Development Setup
-
-For development with additional tools:
-```bash
-uv sync --dev
+uv run main.py
 ```
 
 ## Usage
@@ -133,11 +120,9 @@ Contributions are welcome! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Ensure all tests pass
-5. Submit a pull request
+4. Submit a pull request
 
 ## Future Enhancements
-
 - Multiple visualization modes (waveform, circular, particles)
 - Audio file playback support
 - Advanced audio effects (filters, reverb visualization)# sound-visualizer
