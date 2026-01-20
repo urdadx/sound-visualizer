@@ -1,6 +1,7 @@
 # PySoundXY - Real-Time Audio Visualizer
 
-A simple real-time audio visualizer built with Python that captures live microphone input and transforms it into dynamic frequency-based visualizations using Fast Fourier Transform (FFT) analysis.
+A simple real-time audio visualizer built with Python that captures live microphone input and transforms it into dynamic frequency-based visualizations using Fast Fourier Transform (FFT) analysis. You can check out the mini research I did for the project to understand the fundamentals here 👉 [Mini Research Dump](https://docs.google.com/document/d/1Dq2ZcLPa4CcfuNNo_l4u7hNDIz_rdLAKrx2mYbj9pfE/edit?usp=sharing)
+
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
