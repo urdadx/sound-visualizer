@@ -13,6 +13,13 @@ A simple real-time audio visualizer built with Python that captures live microph
 - **Frequency Analysis**: FFT-based frequency spectrum analysis with logarithmic frequency bins
 - **Smooth Animations**: Gravity-based bar animations with peak detection
 
+## Demo
+
+
+https://github.com/user-attachments/assets/33009196-84f4-4430-9c28-8aa45e2c04b6
+
+
+
 ### Core Components
 
 - **`AudioStream`** (`audio_stream.py`): Handles real-time audio capture from microphone input
